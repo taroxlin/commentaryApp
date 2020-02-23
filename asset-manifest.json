@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/commentaryApp/static/css/main.5dcebec1.chunk.css",
+    "main.js": "/commentaryApp/static/js/main.d710f414.chunk.js",
+    "main.js.map": "/commentaryApp/static/js/main.d710f414.chunk.js.map",
+    "runtime-main.js": "/commentaryApp/static/js/runtime-main.67503b6f.js",
+    "runtime-main.js.map": "/commentaryApp/static/js/runtime-main.67503b6f.js.map",
+    "static/js/2.26da76e2.chunk.js": "/commentaryApp/static/js/2.26da76e2.chunk.js",
+    "static/js/2.26da76e2.chunk.js.map": "/commentaryApp/static/js/2.26da76e2.chunk.js.map",
+    "index.html": "/commentaryApp/index.html",
+    "precache-manifest.55561eb08c77f0735ec09fd20bdefb86.js": "/commentaryApp/precache-manifest.55561eb08c77f0735ec09fd20bdefb86.js",
+    "service-worker.js": "/commentaryApp/service-worker.js",
+    "static/css/main.5dcebec1.chunk.css.map": "/commentaryApp/static/css/main.5dcebec1.chunk.css.map",
+    "static/js/2.26da76e2.chunk.js.LICENSE.txt": "/commentaryApp/static/js/2.26da76e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67503b6f.js",
+    "static/js/2.26da76e2.chunk.js",
+    "static/css/main.5dcebec1.chunk.css",
+    "static/js/main.d710f414.chunk.js"
+  ]
+}
